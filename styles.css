@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top_container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 20px;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+h1 {
+  font-size: 500%;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #364F6B;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #364F6B;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #368B85;
+  font-weight: bold;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 500px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+a {
+  color: #11999E
+}
+
+.intro {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.web-development {
+  height: 14.5rem;
+  width: 20.5rem;
+  float: left;
+  margin-right: 30px;
+}
+
+.python-development {
+  float: right;
+  height: 17.5rem;
+  width: 20.5rem;
+  margin-left: 30px;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 10%;
+  color: #EAF6F6;
+  border-width: 10px;
+}
+
+.button {
+  background-color: #66BFBF;
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  border-radius: 8px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  color: #11999E;
+  padding-left: 20px;
+  text-decoration: none;
+}
+
+.footer-name {
+  color: #EAF6F6;
+  font-size: 10px;
+  font-weight: bold;
+}
